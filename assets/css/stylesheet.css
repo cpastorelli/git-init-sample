@@ -1,0 +1,55 @@
+header {
+    background-color: lightgoldenrodyellow;
+    display: inline;
+    
+}
+
+body {
+    padding-top:60px;
+    background-color: rgb(231, 231, 231);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+footer {
+    background-color: rgb(197, 197, 194);
+}
+
+img {
+    height:200px;
+    width: 200px,
+}
+.text-centered {
+    text-align: center;
+}
+
+.form-area {
+
+}
+
+.nav-bar {
+    position: fixed;
+    top: 0;
+    width: 99%;
+    background-color: rgb(138, 224, 217);
+    text-align: right;
+    display: block;
+}
+.nav-bar a{
+    float: right;
+    display: block;
+    padding-left: 20px;
+}
+
+.form-border {
+    width:fit-content;
+    margin: 10px;
+    border: 4px solid black;
+    padding: 5px; 
+    display: center;
+    margin:auto;
+    background-color: lavenderblush;
+}
+
+ul {
+    list-style-type: none;
+}
